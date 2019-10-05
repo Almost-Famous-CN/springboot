@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.almost-famous-cn</groupId>
+    <artifactId>springboot</artifactId>
+    <version>1.0.0.RELEASE</version>
+    <name>springboot</name>
+
+    <description>随着时代的进步，技术的演进，渐渐地**SpringBoot**成为时下流行最广、应用最多的web框架，使得Java开发人员的开发效率大大提升。
+        本着**知其然知其所以然**的求知精神，来学习SpringBoot的使用方法以及原理。解释**我们为什么要用它(springboot)**</description>
+
+    <contributors>
+        <contributor>
+            <name>Noseparte</name>
+            <email>noseparte@aliyun.com</email>
+        </contributor>
+    </contributors>
+
+</project>
