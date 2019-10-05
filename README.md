@@ -37,3 +37,7 @@
 ![Image file](https://github.com/AwakenCN/Almost-Famous/blob/680d858e9a01c2aa79e2f74497db22272983d9c7/famous-static/images/application-banner.png?raw=true)
 
 * [Banner生成器](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
+## springboot系列文章
+
+- [SpringBoot-自动装配原理及源码分析 ](./springboot-autoconfig.md)
